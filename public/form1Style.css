@@ -1,0 +1,58 @@
+.form1Body{
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+form {
+    border: 3px solid #786c6c;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+}
+
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #40b144;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    font-weight: bold;
+    
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.successPage {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffeffd;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    position: relative;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    border-top: 11px solid #ab34f0;
+    background-color: #ffffff;
+    box-shadow: 0 8px 10px rgba(0, 0, 0, 0.1);
+    display: inline-block; 
+}

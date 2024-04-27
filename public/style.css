@@ -1,0 +1,33 @@
+body{
+    background-color: gray
+}
+.point{
+    font-size: 30px;
+}
+.ab{
+   width: 100%;
+   height: auto;
+   position: relative;
+}
+.ab img{
+    width: 100%;
+    
+}
+.text{
+    font-size:50px ;
+}
+.ab .text{
+    position: absolute;
+    color: gray;
+    left: 10px;
+    bottom: 50%;
+}
+.content{
+    font-size: 30px;
+}
+.info{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
